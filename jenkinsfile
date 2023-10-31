@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                 git url: 'fgieajjfh.com', branch: 'main'
+                 git url: 'fgieah.com', branch: 'main'
             }
         }
 
