@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                 git url: 'https://github.com/Immaculatekimani/jenkin-self', branch: 'main'
+                 git url: 'https://github.com/Immaculatekimani/jenkins-self', branch: 'main'
             }
         }
 
